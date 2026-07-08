@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+*/output/
+flood_forecast_accuracy/data/*.csv
+flood_persistence_analysis/output/

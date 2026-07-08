@@ -1,0 +1,8 @@
+api_key=I4iuMNhhneVaetsuZwiN7kCX3h0pIw9BR7dQIbLgLNKUFYfe8CQAQ3qPZACmkDPT
+
+curl -X 'GET' \
+  'https://api-gateway.gistda.or.th/api/2.0/resources/features/flood-freq?limit=1&offset=0&tb_idn=1' \
+  -H 'accept: application/json' \
+  -H 'API-Key: I4iuMNhhneVaetsuZwiN7kCX3h0pIw9BR7dQIbLgLNKUFYfe8CQAQ3qPZACmkDPT'
+
+https://api-gateway.gistda.or.th/api/2.0/resources/features/flood-freq?limit=1&offset=0&tb_idn=1
